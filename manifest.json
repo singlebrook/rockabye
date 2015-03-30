@@ -1,0 +1,17 @@
+{
+  "name": "Rockabye",
+  "description": "Make your sites rock on a gently rolling sea",
+  "version": "0.0.1",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["rockabye.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Rock it!"
+  },
+  "manifest_version": 2
+}
