@@ -10,7 +10,7 @@
     "persistent": true
   },
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "singlebrook_boat.png",
     "default_title": "Rock it!"
   },
   "manifest_version": 2
